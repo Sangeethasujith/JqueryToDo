@@ -1,0 +1,17 @@
+body{
+	background-image: url("images/milky-way-g0e063f834_1920.jpg");
+        height: 100vh;
+}
+li{
+    padding: 20px;
+}
+span{
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    float: right;
+}
+.done{
+    color: gray;
+    text-decoration: line-through;
+}
